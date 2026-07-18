@@ -1,0 +1,937 @@
+[
+  {
+    "categoria": "Armas",
+    "items": [
+      {
+        "id": "armas-0",
+        "nombre": "Espada de Dragón",
+        "ubicacion": "Cortar la cola del Hellkite Wyvern, el dragón rojo que encontramos en el Burgo de los No Muertos, en el puente que da a la parroquia.",
+        "coste": null,
+        "missable": false
+      },
+      {
+        "id": "armas-1",
+        "nombre": "Hacha de Cola de Gárgola",
+        "ubicacion": "Cortar la cola de la Gárgola de la Campana, en lo alto de la Parroquia de los No Muertos.",
+        "coste": null,
+        "missable": false
+      },
+      {
+        "id": "armas-2",
+        "nombre": "Gran Hacha de Rey Dragón",
+        "ubicacion": "Cortar la cola del Dragón Boquiabierto en las Profundidades.",
+        "coste": null,
+        "missable": false
+      },
+      {
+        "id": "armas-3",
+        "nombre": "Escudo de Emblema",
+        "ubicacion": "Derrotar a Oscar de Astora al volver al Refugio de los No Muertos usando el cuervo gigante.",
+        "coste": null,
+        "missable": false
+      },
+      {
+        "id": "armas-4",
+        "nombre": "Espada Recta de Caballero Plateado",
+        "ubicacion": "Se obtiene de los Caballeros Plateados que portan este arma, en la zona interior de la catedral de Anor Londo.",
+        "coste": null,
+        "missable": false
+      },
+      {
+        "id": "armas-5",
+        "nombre": "Lanza de Caballero Plateado",
+        "ubicacion": "Se obtiene de los Caballeros Plateados que portan este arma, en la zona interior de la catedral de Anor Londo.",
+        "coste": null,
+        "missable": false
+      },
+      {
+        "id": "armas-6",
+        "nombre": "Escudo de Caballero Plateado",
+        "ubicacion": "Se obtiene de los Caballeros Plateados en la zona interior de la catedral de Anor Londo.",
+        "coste": null,
+        "missable": false
+      },
+      {
+        "id": "armas-7",
+        "nombre": "Diente de Dragón",
+        "ubicacion": "Se obtiene de un cofre en una sala secreta en la zona interior de la catedral de Anor Londo, atravesando una pared ilusoria en una chimenea cerca de la hoguera.",
+        "coste": null,
+        "missable": false
+      },
+      {
+        "id": "armas-8",
+        "nombre": "Gran Escudo de Havel",
+        "ubicacion": "Se obtiene de un cofre en una sala secreta en la zona interior de la catedral de Anor Londo, atravesando una pared ilusoria en una chimenea cerca de la segunda hoguera.",
+        "coste": null,
+        "missable": false
+      },
+      {
+        "id": "armas-9",
+        "nombre": "Lanza de Demonio",
+        "ubicacion": "(Puede que innecesario) Se obtiene de los demonios alados de Anor Londo.",
+        "coste": null,
+        "missable": false
+      },
+      {
+        "id": "armas-10",
+        "nombre": "Arco Grande de Asesino de Dragones",
+        "ubicacion": "Se obtiene en Anor Londo, al final de un camino cruzando una cristalera rota por la parte superior de la catedral.",
+        "coste": null,
+        "missable": false
+      },
+      {
+        "id": "armas-11",
+        "nombre": "Alabarda de Gigante",
+        "ubicacion": "Comprar al Herrero Gigante por 5,000 almas, o obtenerlo de los guardias gigantes de Anor Londo.",
+        "coste": null,
+        "missable": false
+      },
+      {
+        "id": "armas-12",
+        "nombre": "Gran Escudo de Gigante",
+        "ubicacion": "(Puede que innecesario) Se puede comprar al Herrero Gigante por 5,000 almas, o obtenerlo de los guardias gigantes de Anor Londo.",
+        "coste": null,
+        "missable": false
+      },
+      {
+        "id": "armas-13",
+        "nombre": "Espadón de Piedra",
+        "ubicacion": "Se obtiene de los guardianes de piedra en el Jardín Tenebroso.",
+        "coste": null,
+        "missable": false
+      },
+      {
+        "id": "armas-14",
+        "nombre": "Gran Escudo de Piedra",
+        "ubicacion": "Se obtiene de los guardianes de piedra en el Jardín Tenebroso, o lo podemos comprar a Shiva por 15,000 almas como parte del pacto de los Guardianes del Bosque.",
+        "coste": null,
+        "missable": false
+      },
+      {
+        "id": "armas-15",
+        "nombre": "Espada Recta de Astora",
+        "ubicacion": "Se obtiene en el Valle de los Dragones, en un cadáver guardado por un dragón putrefacto.",
+        "coste": null,
+        "missable": false
+      },
+      {
+        "id": "armas-16",
+        "nombre": "Escudo con Emblema Dragón",
+        "ubicacion": "Se obtiene en el Valle de los Dragones, en un cadáver guardado por un dragón putrefacto.",
+        "coste": null,
+        "missable": false
+      },
+      {
+        "id": "armas-17",
+        "nombre": "Mano Oscura",
+        "ubicacion": "Recompensa por unirnos al pacto de los Espectros Oscuros en el Abismo de los 4 Reyes. También se puede obtener de los darkwraiths de la parte inferior de Nuevo Londo.",
+        "coste": null,
+        "missable": false
+      },
+      {
+        "id": "armas-18",
+        "nombre": "Espadón de Rey del Cementerio",
+        "ubicacion": "Recompensa por unirnos al pacto de los Siervos del Rey del Cementerio en las Catacumbas.",
+        "coste": null,
+        "missable": false
+      },
+      {
+        "id": "armas-19",
+        "nombre": "Hacha de la Luna Creciente",
+        "ubicacion": "Comprar a Parches por 10,000 almas, o podemos obtenerla por eliminarle.",
+        "coste": null,
+        "missable": false
+      },
+      {
+        "id": "armas-20",
+        "nombre": "Escudo de Efigie",
+        "ubicacion": "Se obtiene en la Tumba de los Gigantes, de un cadáver cerca de la hoguera.",
+        "coste": null,
+        "missable": false
+      },
+      {
+        "id": "armas-21",
+        "nombre": "Grant",
+        "ubicacion": "Derrotar al espectro del Paladín Leeroy en la entrada a la cueva que lleva a Nito, en la Tumba de los Gigantes. Solo nos invade antes de eliminar a Nito.",
+        "coste": null,
+        "missable": false
+      },
+      {
+        "id": "armas-22",
+        "nombre": "Sanctus",
+        "ubicacion": "Derrotar al espectro del Paladín Leeroy en la entrada a la cueva que lleva a Nito, en la Tumba de los Gigantes. Solo nos invade antes de eliminar a Nito.",
+        "coste": null,
+        "missable": false
+      },
+      {
+        "id": "armas-23",
+        "nombre": "Gran Escudo de Acero Negro",
+        "ubicacion": "Se obtiene de un cadáver en la sala inferior de Anor Londo, con el cuadro que nos lleva al Mundo Pintado de Ariamis.",
+        "coste": null,
+        "missable": false
+      },
+      {
+        "id": "armas-24",
+        "nombre": "Escudo de Sangre",
+        "ubicacion": "Se obtiene en el Mundo Pintado de Ariamis, de un cadáver sobre el puente con el dragón putrefacto.",
+        "coste": null,
+        "missable": false
+      },
+      {
+        "id": "armas-25",
+        "nombre": "Estoque de Velka",
+        "ubicacion": "Se obtiene en el Mundo Pintado de Ariamis, de un cadáver en lo alto de la zona del anexo.",
+        "coste": null,
+        "missable": false
+      },
+      {
+        "id": "armas-26",
+        "nombre": "Daga de Priscilla",
+        "ubicacion": "Cortar la cola de Priscilla la Mestiza en el Mundo Pintado de Ariamis.",
+        "coste": null,
+        "missable": false
+      },
+      {
+        "id": "armas-27",
+        "nombre": "Tridente Canalizador",
+        "ubicacion": "Se obtiene de los canalizadores en los Archivos del Duque.",
+        "coste": null,
+        "missable": false
+      },
+      {
+        "id": "armas-28",
+        "nombre": "Espadón de Luz de Luna",
+        "ubicacion": "Cortar la cola de Seath el Descamado en la Cueva de Cristal.",
+        "coste": null,
+        "missable": false
+      },
+      {
+        "id": "armas-29",
+        "nombre": "Espadón de Dragón",
+        "ubicacion": "Cortar la cola del Dragón de Piedra al fondo del Lago de la Ceniza.",
+        "coste": null,
+        "missable": false
+      },
+      {
+        "id": "armas-30",
+        "nombre": "Catalizador de Izalith",
+        "ubicacion": "(Puede que innecesario). Eliminar a la Hija del Caos que cerca del final de Izalith Perdida.",
+        "coste": null,
+        "missable": false
+      },
+      {
+        "id": "armas-31",
+        "nombre": "Espadón de Caballero Negro",
+        "ubicacion": "Se obtiene de los Caballeros Negros que portan este arma, farmeables en el Horno de la Llama Original.",
+        "coste": null,
+        "missable": false
+      },
+      {
+        "id": "armas-32",
+        "nombre": "Espadón de Rey Caballero",
+        "ubicacion": "Se obtiene de los Caballeros Negros que portan este arma, farmeables en el Horno de la Llama Original.",
+        "coste": null,
+        "missable": false
+      },
+      {
+        "id": "armas-33",
+        "nombre": "Alabarda de Caballero Negro",
+        "ubicacion": "Se obtiene de los Caballeros Negros que portan este arma, farmeables en el Horno de la Llama Original.",
+        "coste": null,
+        "missable": false
+      },
+      {
+        "id": "armas-34",
+        "nombre": "Gran Hacha de Caballero Negro",
+        "ubicacion": "Se obtiene de los Caballeros Negros que portan este arma, farmeables en el Horno de la Llama Original.",
+        "coste": null,
+        "missable": false
+      },
+      {
+        "id": "armas-35",
+        "nombre": "Escudo de Caballero Negro",
+        "ubicacion": "Se obtiene de los Caballeros Negros con escudo, farmeables en el Horno de la Llama Original.",
+        "coste": null,
+        "missable": false
+      },
+      {
+        "id": "armas-36",
+        "nombre": "Espada de Furia de Quelaag",
+        "ubicacion": "Juntar cualquier cimitarra o espada curva al +10 con el Alma de Queelag.",
+        "coste": null,
+        "missable": false
+      },
+      {
+        "id": "armas-37",
+        "nombre": "Espada del Caos",
+        "ubicacion": "Juntar cualquier katana al +10 con el Alma de Queelag.",
+        "coste": null,
+        "missable": false
+      },
+      {
+        "id": "armas-38",
+        "nombre": "Hacha de Golem",
+        "ubicacion": "Juntar cualquier hacha al +10 con el Núcleo del Golem de Hierro.",
+        "coste": null,
+        "missable": false
+      },
+      {
+        "id": "armas-39",
+        "nombre": "Puño de Hueso de Dragón",
+        "ubicacion": "Juntar los caestus o garras al +10 con el Núcleo del Golem de Hierro.",
+        "coste": null,
+        "missable": false
+      },
+      {
+        "id": "armas-40",
+        "nombre": "Lanza de Asesino de Dragones",
+        "ubicacion": "Juntar cualquier lanza o estoque al +10 con el Alma de Ornstein.",
+        "coste": null,
+        "missable": false
+      },
+      {
+        "id": "armas-41",
+        "nombre": "Martillo de Smough",
+        "ubicacion": "Juntar cualquier maza o garrote al +10 con el Alma de Smough.",
+        "coste": null,
+        "missable": false
+      },
+      {
+        "id": "armas-42",
+        "nombre": "Cuerno de Mariposa Lunar",
+        "ubicacion": "Juntar cualquier lanza o estoque al +10 con el Alma de la Mariposa Lunar.",
+        "coste": null,
+        "missable": false
+      },
+      {
+        "id": "armas-43",
+        "nombre": "Escudo de Anillos de Cristal",
+        "ubicacion": "Juntar cualquier escudo al +10 con el Alma de la Mariposa Lunar.",
+        "coste": null,
+        "missable": false
+      },
+      {
+        "id": "armas-44",
+        "nombre": "Espadón de Artorias (maldito)",
+        "ubicacion": "Juntar cualquier espada o espadón al +10 con el Alma de Sif. Idéntico en nombre al de abajo, pero este requiere 18 de Inteligencia y Fe.",
+        "coste": null,
+        "missable": false
+      },
+      {
+        "id": "armas-45",
+        "nombre": "Espadón de Artorias",
+        "ubicacion": "Juntar cualquier espada rota al +10 con el Alma de Sif. Idéntico en nombre al de arriba, pero este requiere 20 de Inteligencia y Fe.",
+        "coste": null,
+        "missable": false
+      },
+      {
+        "id": "armas-46",
+        "nombre": "Gran Escudo de Artorias",
+        "ubicacion": "Juntar cualquier escudo al +10 con el Alma de Sif.",
+        "coste": null,
+        "missable": false
+      },
+      {
+        "id": "armas-47",
+        "nombre": "Guadaña del Cazador",
+        "ubicacion": "Juntar cualquier alabarda o guadaña al +10 con el Alma de Priscilla.",
+        "coste": null,
+        "missable": false
+      },
+      {
+        "id": "armas-48",
+        "nombre": "Catalizador de Latón de la Luna Oscura",
+        "ubicacion": "Juntar cualquier catalizador con el Alma de la Gwyndolin.",
+        "coste": null,
+        "missable": false
+      },
+      {
+        "id": "armas-49",
+        "nombre": "Arco de la Luna Oscura",
+        "ubicacion": "Juntar cualquier arco al +10 con el Alma de la Gwyndolin.",
+        "coste": null,
+        "missable": false
+      },
+      {
+        "id": "armas-50",
+        "nombre": "Espadón del Gran Se­ñor",
+        "ubicacion": "Juntar cualquier espada o espadón al +10 con el Alma de Gwyn.",
+        "coste": null,
+        "missable": false
+      }
+    ]
+  },
+  {
+    "categoria": "Hechizos",
+    "items": [
+      {
+        "id": "hechizos-0",
+        "nombre": "Señuelo Auditivo",
+        "ubicacion": "Comprar de Griggs de Vinheim.",
+        "coste": 1000,
+        "missable": false
+      },
+      {
+        "id": "hechizos-1",
+        "nombre": "Controlar Caída",
+        "ubicacion": "Comprar de Griggs de Vinheim.",
+        "coste": 1500,
+        "missable": false
+      },
+      {
+        "id": "hechizos-2",
+        "nombre": "Flecha de Alma",
+        "ubicacion": "Comprar de Sombrero Grande Logan o Griggs de Vinheim.",
+        "coste": 1000,
+        "missable": false
+      },
+      {
+        "id": "hechizos-3",
+        "nombre": "Arma Mágica",
+        "ubicacion": "Comprar de Sombrero Grande Logan o Griggs de Vinheim.",
+        "coste": 3000,
+        "missable": false
+      },
+      {
+        "id": "hechizos-4",
+        "nombre": "Escudo Mágico",
+        "ubicacion": "Comprar de Sombrero Grande Logan o Griggs de Vinheim.",
+        "coste": 3000,
+        "missable": false
+      },
+      {
+        "id": "hechizos-5",
+        "nombre": "Gran Flecha de Alma",
+        "ubicacion": "Comprar de Sombrero Grande Logan o Griggs de Vinheim.",
+        "coste": 6000,
+        "missable": false
+      },
+      {
+        "id": "hechizos-6",
+        "nombre": "Flecha de Alma Pesada",
+        "ubicacion": "Comprar de Sombrero Grande Logan o Griggs de Vinheim.",
+        "coste": 2000,
+        "missable": false
+      },
+      {
+        "id": "hechizos-7",
+        "nombre": "Gran Flecha de Alma Pesada",
+        "ubicacion": "Comprar de Sombrero Grande Logan o Griggs de Vinheim.",
+        "coste": 8000,
+        "missable": false
+      },
+      {
+        "id": "hechizos-8",
+        "nombre": "Remedio",
+        "ubicacion": "Se obtiene de un cadáver en la Ciudad Infestada, al final de un camino sobre ramas por la derecha, subiendo por la rueda giratoria.",
+        "coste": null,
+        "missable": false
+      },
+      {
+        "id": "hechizos-9",
+        "nombre": "Silencio",
+        "ubicacion": "Se obtiene de un cadáver en la Fortaleza de Sen, bajando a una plataforma con un enemigo serpiente cerca del mecanismo lanzapiedras.",
+        "coste": null,
+        "missable": false
+      },
+      {
+        "id": "hechizos-10",
+        "nombre": "Masa de Alma Dirigida",
+        "ubicacion": "Comprar de Sombrero Grande Logan o Griggs de Vinheim (cuando Logan se marcha).",
+        "coste": 20000,
+        "missable": false
+      },
+      {
+        "id": "hechizos-11",
+        "nombre": "Lanza de Alma",
+        "ubicacion": "Comprar de Sombrero Grande Logan o Griggs de Vinheim (cuando Logan se marcha).",
+        "coste": 40000,
+        "missable": false
+      },
+      {
+        "id": "hechizos-12",
+        "nombre": "Lanzar Luz",
+        "ubicacion": "Comprar de Dusk de Oolacile en la Cuenca Tenebrosa, tras liberarla del golem de cristal. Dusk desaparece al DLC cuando colocamos la Vasija del Señor.",
+        "coste": 1000,
+        "missable": false
+      },
+      {
+        "id": "hechizos-13",
+        "nombre": "Arma Oculta",
+        "ubicacion": "Comprar de Dusk de Oolacile en la Cuenca Tenebrosa.",
+        "coste": 2000,
+        "missable": false
+      },
+      {
+        "id": "hechizos-14",
+        "nombre": "Cuerpo Oculto",
+        "ubicacion": "Comprar de Dusk de Oolacile en la Cuenca Tenebrosa.",
+        "coste": 2000,
+        "missable": false
+      },
+      {
+        "id": "hechizos-15",
+        "nombre": "Camaleón",
+        "ubicacion": "Comprar de Dusk de Oolacile en la Cuenca Tenebrosa.",
+        "coste": 3000,
+        "missable": false
+      },
+      {
+        "id": "hechizos-16",
+        "nombre": "Reparar",
+        "ubicacion": "Comprar de Dusk de Oolacile en la Cuenca Tenebrosa.",
+        "coste": 20000,
+        "missable": false
+      },
+      {
+        "id": "hechizos-17",
+        "nombre": "Gran Arma Mágica",
+        "ubicacion": "Se obtiene del cadáver en el candelabro (hay que soltarlo) en la sala inferior de Anor Londo, donde el cuadro que nos lleva al Mundo Pintado de Ariamis.",
+        "coste": null,
+        "missable": false
+      },
+      {
+        "id": "hechizos-18",
+        "nombre": "Resistir Maldición",
+        "ubicacion": "Comprar de Ingward en las Ruinas de Nuevo Londo, en el tejado del edificio central.",
+        "coste": 5000,
+        "missable": false
+      },
+      {
+        "id": "hechizos-19",
+        "nombre": "Gran Escudo Mágico",
+        "ubicacion": "Se obtiene de un cofre en los Archivos del Duque, subiendo al segundo piso con una escalera giratoria.",
+        "coste": null,
+        "missable": false
+      },
+      {
+        "id": "hechizos-20",
+        "nombre": "Arma Mágica de Cristal",
+        "ubicacion": "Comprar de Sombrero Grande Logan en los Archivos del Duque.",
+        "coste": 20000,
+        "missable": false
+      },
+      {
+        "id": "hechizos-21",
+        "nombre": "Masa de Alma de Cristal Dirigida",
+        "ubicacion": "Comprar de Sombrero Grande Logan en los Archivos del Duque.",
+        "coste": 30000,
+        "missable": false
+      },
+      {
+        "id": "hechizos-22",
+        "nombre": "Lanza de Alma de Cristal",
+        "ubicacion": "Comprar de Sombrero Grande Logan en los Archivos del Duque.",
+        "coste": 50000,
+        "missable": false
+      },
+      {
+        "id": "hechizos-23",
+        "nombre": "Aliento de Dragón Blanco",
+        "ubicacion": "Eliminar a Sombrero Grande Logan cuando pierde la cordura en los Archivos del Duque, tras completar su questline y comprarle todos los hechizos.",
+        "coste": null,
+        "missable": false
+      }
+    ]
+  },
+  {
+    "categoria": "Milagros",
+    "items": [
+      {
+        "id": "milagros-0",
+        "nombre": "Justicia Kármica",
+        "ubicacion": "Comprar de Oswald de Carim en el campanario de la Parroquia de los No Muertos.",
+        "coste": 40000,
+        "missable": false
+      },
+      {
+        "id": "milagros-1",
+        "nombre": "Emitir Fuerza",
+        "ubicacion": "Se obtiene de Siegmeyer de Catarina en el Enlace de Fuego tras ayudarle en la Fortaleza de Sen y Anor Londo. Hay que responder que sí a su pregunta.",
+        "coste": null,
+        "missable": false
+      },
+      {
+        "id": "milagros-2",
+        "nombre": "Apacible Paseo de Paz",
+        "ubicacion": "Se obtiene de un cadáver en una sala tras dos paredes rompibles pasando la segunda hoguera de las Catacumbas.",
+        "coste": null,
+        "missable": false
+      },
+      {
+        "id": "milagros-3",
+        "nombre": "Reabastecimiento",
+        "ubicacion": "Recompensa de Rhea de Thorolund por salvarle de los devotos en la Tumba de los Gigantes.",
+        "coste": null,
+        "missable": false
+      },
+      {
+        "id": "milagros-4",
+        "nombre": "Buscar Orientación",
+        "ubicacion": "Comprar de Rhea de Thorolund (o Petrus por el cuádruple).",
+        "coste": 500,
+        "missable": false
+      },
+      {
+        "id": "milagros-5",
+        "nombre": "Curación",
+        "ubicacion": "Comprar de Rhea de Thorolund (o Petrus por el quíntuple).",
+        "coste": 1000,
+        "missable": false
+      },
+      {
+        "id": "milagros-6",
+        "nombre": "Regreso",
+        "ubicacion": "Comprar de Rhea de Thorolund (o Petrus por ocho veces el coste).",
+        "coste": 1000,
+        "missable": false
+      },
+      {
+        "id": "milagros-7",
+        "nombre": "Fuerza",
+        "ubicacion": "Comprar de Rhea de Thorolund (o Petrus por el cuádruple).",
+        "coste": 1000,
+        "missable": false
+      },
+      {
+        "id": "milagros-8",
+        "nombre": "Extracto de Curación",
+        "ubicacion": "Comprar de Rhea de Thorolund (o Petrus por el quíntuple).",
+        "coste": 2000,
+        "missable": false
+      },
+      {
+        "id": "milagros-9",
+        "nombre": "Barrera Mágica",
+        "ubicacion": "Comprar de Rhea de Thorolund. Para mantenerla viva es necesario eliminar a Petrus.",
+        "coste": 6000,
+        "missable": true
+      },
+      {
+        "id": "milagros-10",
+        "nombre": "Gran Curación",
+        "ubicacion": "Comprar de Rhea de Thorolund.",
+        "coste": 10000,
+        "missable": false
+      },
+      {
+        "id": "milagros-11",
+        "nombre": "Ira de los Dioses",
+        "ubicacion": "Comprar de Rhea de Thorolund.",
+        "coste": 10000,
+        "missable": false
+      },
+      {
+        "id": "milagros-12",
+        "nombre": "Voto de Silencio",
+        "ubicacion": "Se obtiene de un cadáver en la zona del anexo del Mundo Pintado de Ariamis.",
+        "coste": null,
+        "missable": false
+      },
+      {
+        "id": "milagros-13",
+        "nombre": "Espada de Luna Oscura",
+        "ubicacion": "Recompensa por entregar 10 recuerdos de represalia en el pacto de los Guerreros de la Luna Oscura, en Anor Londo. Solo es posible antes de eliminar a Gwyndolin.",
+        "coste": null,
+        "missable": false
+      },
+      {
+        "id": "milagros-14",
+        "nombre": "Espada de Luz Solar",
+        "ubicacion": "Se obtiene de un cofre tras eliminar al Sol Oscuro Gwyndolin en Anor Londo.",
+        "coste": null,
+        "missable": false
+      },
+      {
+        "id": "milagros-15",
+        "nombre": "Luz Solar Relajante",
+        "ubicacion": "Se obtiene de una de las pisacas en zona inferior de la biblioteca con celdas de los Archivos del Duque.",
+        "coste": null,
+        "missable": false
+      },
+      {
+        "id": "milagros-16",
+        "nombre": "Luz Solar Dadivosa",
+        "ubicacion": "Se obtiene de una de las pisacas en zona inferior de la biblioteca con celdas de los Archivos del Duque.",
+        "coste": null,
+        "missable": false
+      },
+      {
+        "id": "milagros-17",
+        "nombre": "Gran Barrera Mágica",
+        "ubicacion": "Se obtiene de un cadáver en una rama cerca del final del Lago de la Ceniza.",
+        "coste": null,
+        "missable": false
+      },
+      {
+        "id": "milagros-18",
+        "nombre": "Danza de Espadas del Rey del Cementerio",
+        "ubicacion": "Recompensa por unirnos al pacto de los Siervos del Rey del Cementerio. Solo es posible antes de eliminar a Nito.",
+        "coste": null,
+        "missable": false
+      },
+      {
+        "id": "milagros-19",
+        "nombre": "Gran Danza de Espadas del Rey del Cementerio",
+        "ubicacion": "Recompensa por entregar 10 ojos de la muerte en el pacto de los Siervos del Rey del Cementerio. Solo es posible antes de eliminar a Nito.",
+        "coste": null,
+        "missable": false
+      },
+      {
+        "id": "milagros-20",
+        "nombre": "Lanza Relámpago",
+        "ubicacion": "Recompensa por unirnos al pacto de los Guerreros de la Luz Solar. Requiere 25 de Fe o ayudar a otros jugadores a derrotar jefes.",
+        "coste": null,
+        "missable": false
+      },
+      {
+        "id": "milagros-21",
+        "nombre": "Gran Lanza Relámpago",
+        "ubicacion": "Recompensa por entregar 10 medallas de la luz solar en el pacto de los Guerreros de la Luz Solar.",
+        "coste": null,
+        "missable": false
+      },
+      {
+        "id": "milagros-22",
+        "nombre": "Lanza de Luz Solar",
+        "ubicacion": "Recompensa por entregar el Alma de Gwyn (tras entregar 10 medallas de la luz solar) en el pacto de los Guerreros de la Luz Solar.",
+        "coste": null,
+        "missable": false
+      }
+    ]
+  },
+  {
+    "categoria": "Piromancias",
+    "items": [
+      {
+        "id": "piromancias-0",
+        "nombre": "Carne Férrea",
+        "ubicacion": "Comprar de Laurentius del Gran Pantano.",
+        "coste": 2000,
+        "missable": false
+      },
+      {
+        "id": "piromancias-1",
+        "nombre": "Sudor Relámpago",
+        "ubicacion": "Comprar de Laurentius del Gran Pantano.",
+        "coste": 2000,
+        "missable": false
+      },
+      {
+        "id": "piromancias-2",
+        "nombre": "Poder Interior",
+        "ubicacion": "Se obtiene de un cadáver enfrente del enemigo sanguijuela pegado a una pared de la Ciudad Infestada.",
+        "coste": null,
+        "missable": false
+      },
+      {
+        "id": "piromancias-3",
+        "nombre": "Combustión",
+        "ubicacion": "Comprar de Laurentius o Quelana de Izalith.",
+        "coste": 500,
+        "missable": false
+      },
+      {
+        "id": "piromancias-4",
+        "nombre": "Bola de Fuego",
+        "ubicacion": "Comprar de Laurentius o Quelana de Izalith.",
+        "coste": 800,
+        "missable": false
+      },
+      {
+        "id": "piromancias-5",
+        "nombre": "Orbe de Fuego",
+        "ubicacion": "Comprar de Laurentius o Quelana de Izalith.",
+        "coste": 8000,
+        "missable": false
+      },
+      {
+        "id": "piromancias-6",
+        "nombre": "Gran Combustión",
+        "ubicacion": "Comprar de Quelana de Izalith. Aparece en el pantano bajo la Ciudad Infestada tras mejorar la Llama de Piromancia al +10.",
+        "coste": 5000,
+        "missable": false
+      },
+      {
+        "id": "piromancias-7",
+        "nombre": "Látigo de Fuego",
+        "ubicacion": "Comprar de Quelana de Izalith.",
+        "coste": 10000,
+        "missable": false
+      },
+      {
+        "id": "piromancias-8",
+        "nombre": "Compenetración con No Muertos",
+        "ubicacion": "Comprar de Quelana de Izalith.",
+        "coste": 10000,
+        "missable": false
+      },
+      {
+        "id": "piromancias-9",
+        "nombre": "Gran Bola de Fuego",
+        "ubicacion": "Comprar de Quelana de Izalith.",
+        "coste": 20000,
+        "missable": false
+      },
+      {
+        "id": "piromancias-10",
+        "nombre": "Tormenta de Fuego",
+        "ubicacion": "Comprar de Quelana de Izalith.",
+        "coste": 30000,
+        "missable": false
+      },
+      {
+        "id": "piromancias-11",
+        "nombre": "Neblina Venenosa",
+        "ubicacion": "Se obtiene de un cadáver por el pantano bajo la Ciudad Infestada, o podemos comprarlo de Eingyi en los Dominios de Queelag.",
+        "coste": 10000,
+        "missable": false
+      },
+      {
+        "id": "piromancias-12",
+        "nombre": "Neblina Tóxica",
+        "ubicacion": "Comprar de Eingyi en los Dominios de Queelag. Para esto es necesario que hablemos con el tras infectarnos con un gusano.",
+        "coste": 25000,
+        "missable": true
+      },
+      {
+        "id": "piromancias-13",
+        "nombre": "Gran Bola de Fuego del Caos",
+        "ubicacion": "Recompensa por unirnos al pacto de la Hija del Caos, en los Dominios de Queelag.",
+        "coste": null,
+        "missable": false
+      },
+      {
+        "id": "piromancias-14",
+        "nombre": "Tormenta del Caos",
+        "ubicacion": "Recompensa por entregar 30 humanidades en el pacto de la Hija del Caos.",
+        "coste": null,
+        "missable": false
+      },
+      {
+        "id": "piromancias-15",
+        "nombre": "Oleada de Fuego",
+        "ubicacion": "Se obtiene de un enemigo infestado (cabeza con pústula roja), en el sótano del pozo en el Mundo Pintado de Ariamis.",
+        "coste": null,
+        "missable": false
+      },
+      {
+        "id": "piromancias-16",
+        "nombre": "Oleada Ácida",
+        "ubicacion": "Se obtiene de un cadáver al borde del precipicio que hay por la derecha del patio con la estatua, en el Mundo Pintado de Ariamis.",
+        "coste": null,
+        "missable": false
+      },
+      {
+        "id": "piromancias-17",
+        "nombre": "Látigo de Fuego del Caos",
+        "ubicacion": "Se obtiene de un cofre que hay por la derecha de la entrada al jefe en Izalith Perdida.",
+        "coste": null,
+        "missable": false
+      },
+      {
+        "id": "piromancias-18",
+        "nombre": "Tempestad de Fuego",
+        "ubicacion": "Se obtiene de Quelana de Izalith al completar su questline eliminado al Lecho del Caos, o simplemente eliminándola.",
+        "coste": null,
+        "missable": false
+      }
+    ]
+  },
+  {
+    "categoria": "Pactos",
+    "items": [
+      {
+        "id": "pactos-0",
+        "nombre": "Senda Blanca / Blanca Vía",
+        "ubicacion": "Hablar con Petrus de Thorolund en el Santuario del Enlace de Fuego.",
+        "coste": null,
+        "missable": false
+      },
+      {
+        "id": "pactos-1",
+        "nombre": "Cazadores de los Bosques",
+        "ubicacion": "Hablar con Alvina la Gata en la Bosque Tenebroso y decirle que sí a sus preguntas, de lo contrario el pacto se bloquea hasta el NG+.",
+        "coste": null,
+        "missable": true
+      },
+      {
+        "id": "pactos-2",
+        "nombre": "Siervos del Caos",
+        "ubicacion": "Hablar con la Hija del Caos tras la pared ilusoria en los Dominios de Queelag.",
+        "coste": null,
+        "missable": false
+      },
+      {
+        "id": "pactos-3",
+        "nombre": "Guardia de la Princesa",
+        "ubicacion": "Hablar con Gwynevere en lo alto de la catedral de Anor Londo.",
+        "coste": null,
+        "missable": false
+      },
+      {
+        "id": "pactos-4",
+        "nombre": "Espectros Oscuros",
+        "ubicacion": "Hablar con la Serpiente Primigenia Kaathe en el Abismo de los 4 Reyes. Es necesario haber ignorado a la Serpiente Fraampt.",
+        "coste": null,
+        "missable": true
+      },
+      {
+        "id": "pactos-5",
+        "nombre": "Camino del Dragón",
+        "ubicacion": "Hablar con el Gran Dragón de Piedra en lo más profundo del Lago de la Ceniza.",
+        "coste": null,
+        "missable": false
+      },
+      {
+        "id": "pactos-6",
+        "nombre": "Siervos del Rey del Cementerio",
+        "ubicacion": "Hablar con Nito tras tumbarnos en un ataúd teletransportador en la Tumba de los Gigantes. Es necesario no haber vencido a Nito aún.",
+        "coste": null,
+        "missable": true
+      },
+      {
+        "id": "pactos-7",
+        "nombre": "Espadas de la Luna Oscura",
+        "ubicacion": "Arrodillarnos ante Gwyndolin en la Tumba de Gwyn, en Anor Londo. Es necesario el anillo del Espíritu de la Luna Oscura y no habernos enfrentado a Gwyndolin.",
+        "coste": null,
+        "missable": true
+      },
+      {
+        "id": "pactos-8",
+        "nombre": "Guerreros de la Luz Solar",
+        "ubicacion": "Rezar en el altar roto bajo la Parroquia de los No Muertos. Es necesario tener 25 de Fe (requerimiento -5 cada vez que ayudamos a otro jugador a vencer un jefe).",
+        "coste": null,
+        "missable": true
+      },
+      {
+        "id": "pactos-9",
+        "nombre": "30 Humanidades",
+        "ubicacion": "Farmeables de las ratas de las Profundidades. Obtenibles por invadir/ayudar otros jugadores.",
+        "coste": null,
+        "missable": false
+      },
+      {
+        "id": "pactos-10",
+        "nombre": "10 Ojos de la Muerte",
+        "ubicacion": "Farmeables de los basiliscos de las Profundidades y el Gran Hueco. Parches vende 3. Encontramos 6 en cofres de las Catacumbas y Tumba de los Gigantes.",
+        "coste": null,
+        "missable": false
+      },
+      {
+        "id": "pactos-11",
+        "nombre": "10 Recuerdos de Represalia",
+        "ubicacion": "Farmeables de las arpías del Mundo Pintado de Ariamis. Obtenibles por eliminar otros jugadores como Espadas de la Luna Oscura.",
+        "coste": null,
+        "missable": false
+      },
+      {
+        "id": "pactos-12",
+        "nombre": "10 Medallas de Luz Solar",
+        "ubicacion": "Farmeables de los gusanos de luz solar en Izalith Perdida. Obtenibles por vencer jefes con Solaire, o ayudar otros jugadores como parte de los Guerreros de Luz Solar.",
+        "coste": null,
+        "missable": false
+      }
+    ]
+  }
+]
